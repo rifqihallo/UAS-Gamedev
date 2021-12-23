@@ -33,5 +33,5 @@ Pemain dapat menggeser rubik terlebih dahulu lalu untuk menggerakkan tekan
 ENTER , kemudian rubik akan bergerak sejumlah berapa kali tombol-tombol
 tersebut ditekan.
 
-- Catatan
+Catatan
 Mohon maaf untuk file exe masih tetap tidak bisa di run dikarenakan belum bisa dirender oleh GPU
